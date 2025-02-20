@@ -1,4 +1,4 @@
-package org.patterns.creational.dbadapter.db;
+package org.patterns.creational.example_factory.dbadapter.db;
 
 public class PostgresDB implements DB {
 

@@ -1,7 +1,7 @@
-package org.patterns.creational.dbadapter;
+package org.patterns.creational.example_factory.dbadapter;
 
-import org.patterns.creational.dbadapter.db.DB;
-import org.patterns.creational.dbadapter.factory.OracleFactory;
+import org.patterns.creational.example_factory.dbadapter.db.DB;
+import org.patterns.creational.example_factory.dbadapter.factory.OracleFactory;
 
 public class Client {
     public static void main(String[] args) {

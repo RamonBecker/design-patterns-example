@@ -1,9 +1,9 @@
-package org.patterns.creational.factory;
+package org.patterns.creational.example_factory.factory;
 
-import org.patterns.creational.factory.create.IPhone11Factory;
-import org.patterns.creational.factory.create.IPhoneFactory;
-import org.patterns.creational.factory.create.IPhoneXFactory;
-import org.patterns.creational.factory.model.IPhone;
+import org.patterns.creational.example_factory.factory.create.IPhone11Factory;
+import org.patterns.creational.example_factory.factory.create.IPhoneFactory;
+import org.patterns.creational.example_factory.factory.create.IPhoneXFactory;
+import org.patterns.creational.example_factory.factory.model.IPhone;
 
 public class Client {
     public static void main(String[] args) {

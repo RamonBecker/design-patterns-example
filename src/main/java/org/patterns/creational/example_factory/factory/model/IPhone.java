@@ -1,4 +1,4 @@
-package org.patterns.creational.factory.model;
+package org.patterns.creational.example_factory.factory.model;
 
 public abstract class IPhone {
 	

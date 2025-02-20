@@ -1,9 +1,9 @@
-package org.patterns.creational.factory.create;
+package org.patterns.creational.example_factory.factory.create;
 
 
-import org.patterns.creational.factory.model.IPhone;
-import org.patterns.creational.factory.model.IPhoneX;
-import org.patterns.creational.factory.model.IPhoneXSMax;
+import org.patterns.creational.example_factory.factory.model.IPhone;
+import org.patterns.creational.example_factory.factory.model.IPhoneX;
+import org.patterns.creational.example_factory.factory.model.IPhoneXSMax;
 
 public class IPhoneXFactory extends IPhoneFactory {
 
